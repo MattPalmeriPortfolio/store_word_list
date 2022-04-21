@@ -33,7 +33,9 @@ Written using Microsoft Visual Studio.
 		 - A default constructor, and a constructor which takes a const char a[] argument (ends program with error if this argument contains newline char)
 		 - Member function inputLine which stores each blank-separated word separately in a StringVar object
 		 - Overloaded >> which fills only one element of the dynamic array
-	#Additional Note:
+		 - 
+	##Additional Note:
+	
     Nothing about a max size for the dynamic array, so it must be able to expand forever. Therefore, program it like a vector and increase the max size by multiples each time rather than recreate the array each time one entry is added
 	
     
