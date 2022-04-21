@@ -10,7 +10,7 @@ Contents
 
 ## File Contents
 	
-	complex-number-representation-using-class.cpp (program file containing code)
+	store_word_list.cpp (program file containing code)
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 11. Project 5 (combined with 4).
